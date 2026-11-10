@@ -1,0 +1,4 @@
+.venv/
+models/
+models_10000_pixels/
+models_full_pipeline/
